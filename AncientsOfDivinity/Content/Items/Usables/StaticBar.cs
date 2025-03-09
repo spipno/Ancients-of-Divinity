@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AncientsOfDivinity.Content.Items.Weapons
+namespace AncientsOfDivinity.Content.Items.Usables
 {
-    class LycansinesSpadeBlade
+    class StaticBar
     {
     }
 }

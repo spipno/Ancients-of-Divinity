@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AncientsOfDivinity.Content.Items.Weapons
+namespace AncientsOfDivinity.Content.Items.Placables
 {
-    class LycansinesSpadeBlade
+    class VitriolTrophy
     {
     }
 }

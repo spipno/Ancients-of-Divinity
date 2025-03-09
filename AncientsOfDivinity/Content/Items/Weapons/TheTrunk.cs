@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AncientsOfDivinity.Content.Items.Weapons
 {
-    class LycansinesSpadeBlade
+    class TheTrunk
     {
     }
 }
