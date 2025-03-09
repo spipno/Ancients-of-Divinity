@@ -3,12 +3,7 @@
 Items: {
 	LycansinesSpadeBlade: {
 		DisplayName: Lycansines Spade Blade
-		Tooltip:
-			'''
-			Template of an item
-			Replacing this tooltip is duty 
-			It's snowing on Mt.Fuji
-			'''
+		Tooltip: A simple gardening tool.
 	}
 }
 

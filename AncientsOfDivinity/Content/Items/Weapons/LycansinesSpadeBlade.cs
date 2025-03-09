@@ -13,12 +13,12 @@ namespace AncientsOfDivinity.Content.Items.Weapons
 		// The Display Name and Tooltip of this item can be edited in the 'Localization/en-US_Mods.AncientsOfDivinity.hjson' file.
 		public override void SetDefaults()
 		{
-			Item.damage = 70000;
+			Item.damage = 20000;
 			Item.DamageType = DamageClass.Melee;
 			Item.width = 40;
 			Item.height = 40;
-			Item.useTime = 30;
-			Item.useAnimation = 30;
+			Item.useTime = 10;
+			Item.useAnimation = 10;
 			Item.useStyle = ItemUseStyleID.Swing;
 			Item.knockBack = 10;
 			Item.crit = 6;
