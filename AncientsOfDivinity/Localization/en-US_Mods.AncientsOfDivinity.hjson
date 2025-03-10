@@ -10,4 +10,21 @@ Items: {
 			It's snowing on Mt.Fuji
 			'''
 	}
+
+	Voidripper: {
+		Tooltip: ""
+		DisplayName: Voidripper
+	}
+
+	LycansinesSpadeBlade: {
+		DisplayName: Lycansines Spade Blade
+		Tooltip: ""
+	}
+
+	Justice: {
+		DisplayName: Justice
+		Tooltip: ""
+	}
 }
+
+Projectiles.LycansinesSpadeBladeProjectile.DisplayName: Lycansines Spade Blade Projectile

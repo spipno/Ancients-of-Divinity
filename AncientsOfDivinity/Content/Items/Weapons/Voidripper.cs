@@ -7,10 +7,9 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using Terraria;
 
-namespace AncientsOfDivinity.Content.Items.Weapons
+namespace AncientsOfDivinity.Content.Items.Weapons {
 public class Voidripper : ModItem
 {
-		.
 		public override void SetDefaults()
     {
         Item.damage = 6000;

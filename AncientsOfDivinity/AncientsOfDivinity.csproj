@@ -7,10 +7,11 @@
 	<PropertyGroup>
 		
 	</PropertyGroup>
+	<ItemGroup>
+	  <Folder Include="Content\Items\Usables\" />
+	  <Folder Include="Content\Items\Weapons\Ammo\" />
+	</ItemGroup>
 
 	<!-- References -->
-	<ItemGroup>
-		
-	</ItemGroup>
 
 </Project>
